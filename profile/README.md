@@ -2,7 +2,7 @@
   <img src="https://rootcx.com/logo.png" alt="RootCX Logo" width="120" />
 
   # RootCX
-  **Open source studio for developing secure business apps and AI agents.** _Build locally, ship anywhere._
+  **Open source platform to build secure business apps and AI agents.** _Build locally, ship anywhere._
 
   <p align="center">
     <a href="https://discord.gg/rootcx">Discord</a>
