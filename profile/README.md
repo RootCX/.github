@@ -3,7 +3,7 @@
 
   # RootCX
 
-  **The secure open-source foundation for internal software and AI agents.**
+  **The secure open-source\* foundation for internal software and AI agents.**
 
   <p>
     <a href="https://rootcx.com"><img src="https://img.shields.io/badge/website-rootcx.com-blue" alt="Website" /></a>&nbsp;&nbsp;
@@ -19,21 +19,14 @@
 
 ---
 
-Build a fleet of interconnected apps and AI agents with managed database, Auth, RBAC, and a native desktop studio — out of the box. Develop locally, deploy anywhere. Self-host or use our cloud.
+Build a fleet of interconnected apps and AI agents with managed database, Auth, RBAC, and a native desktop studio, out of the box. Develop locally, deploy anywhere. Self-host or use our cloud.
 
 Development of internal software is stuck between rigid SaaS black boxes, expensive and aging ERPs, or fragile vibe coding from scratch. RootCX is the alternative: a secure, enterprise-grade foundation where database, APIs, auth, and governance are built in. You write the business logic, RootCX handles everything else.
-
-### Get Started
-
-```bash
-git clone https://github.com/rootcx/rootcx.git && cd rootcx
-make deps && make dev
-```
 
 ---
 
 <div align="center">
   <sub>Built for the era of malleable software.</sub>
   <br/>
-  <sub>Source-available under <a href="https://fsl.software/">FSL-1.1-ALv2</a>, converting to Apache 2.0 after two years.</sub>
+  <sub>\* Source-available under <a href="https://fsl.software/">FSL-1.1-ALv2</a>, converting to Apache 2.0 after two years.</sub>
 </div>
