@@ -26,7 +26,7 @@ Development of internal software is stuck between rigid SaaS black boxes, expens
 ---
 
 <div align="center">
-  <sub>Built for the era of malleable software.</sub>
+  <sub>Built for the era of elastic software.</sub>
   <br/>
   <sub>\* Source-available under <a href="https://fsl.software/">FSL-1.1-ALv2</a>, converting to Apache 2.0 after two years.</sub>
 </div>
